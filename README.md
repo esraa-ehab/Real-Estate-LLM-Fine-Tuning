@@ -21,3 +21,5 @@ This project aims to transform a large structured real estate dataset into instr
 - Size: ~800K sold listings used for training
 - Original data: [USA Real Estate Dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset)
 
+# Fine tuned model
+fine tuned model can be found [here](https://drive.google.com/drive/folders/1LJZXlKa9Ijen1oy2V2cTFINfQi0TzYhD?usp=sharing)
